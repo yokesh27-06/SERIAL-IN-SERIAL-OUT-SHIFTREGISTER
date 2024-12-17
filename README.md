@@ -60,3 +60,4 @@ RegisterNumber: 24005930
 
 
 **RESULTS**
+The serial-in-serial-out are the output is verified.
